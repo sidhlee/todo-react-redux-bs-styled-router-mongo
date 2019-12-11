@@ -1,0 +1,6 @@
+@import "~bootstrap/scss/bootstrap.scss";
+
+// has to come after @import to have effect
+.breadcrumb {
+  background-color: white;
+}
